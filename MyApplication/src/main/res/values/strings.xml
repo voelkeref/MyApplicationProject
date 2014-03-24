@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Durham Wildlife App</string>
+    <string name="action_settings">Settings</string>
+    <string-array name="animals_array">
+        <item>Fox</item>
+        <item>Rabbit</item>
+        <item>Badger</item>
+        <item>Bear</item>
+        <item>Aardvark</item>
+        <item>Has Human</item>
+    </string-array>
+</resources>
